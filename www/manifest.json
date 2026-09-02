@@ -1,0 +1,18 @@
+{
+  "name": "رفيق المذاكرة",
+  "short_name": "رفيق المذاكرة",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#21072e",
+  "theme_color": "#681c86",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "assets/book-bg.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "description": "تطبيق رفيق المذاكرة مع جداول متعددة وتذكيرات"
+}
